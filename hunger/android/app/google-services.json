@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "553740220475",
+    "firebase_url": "https://hunger-64daf.firebaseio.com",
+    "project_id": "hunger-64daf",
+    "storage_bucket": "hunger-64daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553740220475:android:6a9f4174143631abbac41e",
+        "android_client_info": {
+          "package_name": "com.manicx.hunger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553740220475-0lfo8scdk6ei9e3ou4tndmevnrrbo8ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXNjWeKcYlr3Y7R86y-MNIt1sAqd98UxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553740220475-0lfo8scdk6ei9e3ou4tndmevnrrbo8ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
